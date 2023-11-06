@@ -1,2 +1,6 @@
 Ссылки на тестовую документацию:
-Тест-кейс:
+Диаграмма состояний и переходов: https://drive.google.com/file/d/1M5kzYHfjhh_FmeXBxm1MGf1zYEZnpTEK/view?usp=sharing
+Кроссбраузерное тестирование: https://docs.google.com/spreadsheets/d/1YUZUYFBaOVakJBhcuzcLt_pJps5gnNsV1N1fVgKxZJI/edit?usp=sharing
+Таблица принятия решений: https://docs.google.com/spreadsheets/d/1-SunnYij5tNZ9dGd8uDSuuIcY-EmCPgfTMzGuJZW9x0/edit?usp=sharing
+Тестовые задания: https://docs.google.com/spreadsheets/d/11TwO_VbgJTsQCchrxpVe3qf5ZaJfwfAMAY4yhIfh79Y/edit?usp=sharing
+Тест-кейсы: https://docs.google.com/spreadsheets/d/1HzFRDGUi3Hpb_HLQt7UoNm_vGiUMb_f1/edit?usp=sharing&ouid=103002638670861359347&rtpof=true&sd=true
